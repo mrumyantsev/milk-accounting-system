@@ -1,0 +1,13 @@
+.progress-label-container{
+    position: relative;
+}
+
+.progress-label{
+    position: absolute;
+    right: 7.5%;
+    top: 20%;
+}
+
+.progress-container{
+    margin-right: -60px;
+}
